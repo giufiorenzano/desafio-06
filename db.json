@@ -15,36 +15,36 @@
                     "name": "Londres",
                     "country": "Reino Unido",
                     "picture": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                    "flag": 
+                    "flag": "/images/reino unido.png"
                 },
                 {
                     "id": 2,
                     "name": "Paris",
                     "country": "França",
                     "picture": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-                    "flag": 
+                    "flag": "/images/frança.png"
                 },
                 {
                     "id": 3,
                     "name": "Roma",
                     "country": "Itália",
                     "picture": "https://images.unsplash.com/photo-1529260830199-42c24126f198?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
-                    "flag": 
+                    "flag": "/images/italia.png"
                 },
                 {
                     "id": 4,
                     "name": "Praga",
                     "country": "República Tcheca",
                     "picture": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                    "flag": 
+                    "flag": "/images/repcheca.jpg"
                 },
                 {
                     "id": 5,
                     "name": "Amsterdã",
                     "country": "Holanda",
                     "picture": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-                    "flag": 
-                },
+                    "flag": "/images/holanda.png"
+                }
             ]
         },
         {
